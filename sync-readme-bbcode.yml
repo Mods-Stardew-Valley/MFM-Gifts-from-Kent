@@ -1,0 +1,62 @@
+name: Sync README <-> BBCode
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+      - "README.bbcode"
+      - "scripts/md_bbcode_sync.py"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          fetch-depth: 2
+
+      - name: Set up Python
+        uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7
+        with:
+          python-version: "3.12"
+
+      - name: Descobrir qual arquivo mudou neste push
+        id: changed
+        run: |
+          BEFORE_SHA="${{ github.event.before }}"
+          if [ -z "$BEFORE_SHA" ] || ! git cat-file -e "$BEFORE_SHA" 2>/dev/null; then
+            CHANGED_FILES=$(git diff --name-only HEAD^ HEAD 2>/dev/null || git show --name-only --pretty="" HEAD)
+          else
+            CHANGED_FILES=$(git diff --name-only "$BEFORE_SHA" HEAD)
+          fi
+          echo "$CHANGED_FILES"
+          # README.bbcode e o padrao dominante: se ambos mudarem no mesmo push
+          # (nao deveria acontecer), o bbcode manda.
+          if echo "$CHANGED_FILES" | grep -q "^README.bbcode$"; then
+            echo "direction=to-md" >> "$GITHUB_OUTPUT"
+          elif echo "$CHANGED_FILES" | grep -q "^README.md$"; then
+            echo "direction=to-bbcode" >> "$GITHUB_OUTPUT"
+          else
+            echo "direction=none" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Converter Markdown -> BBCode
+        if: steps.changed.outputs.direction == 'to-bbcode'
+        run: python scripts/md_bbcode_sync.py to-bbcode README.md -o README.bbcode
+
+      - name: Converter BBCode -> Markdown
+        if: steps.changed.outputs.direction == 'to-md'
+        run: python scripts/md_bbcode_sync.py to-md README.bbcode -o README.md
+
+      - name: Commit do arquivo sincronizado
+        if: steps.changed.outputs.direction != 'none'
+        uses: stefanzweifel/git-auto-commit-action@04702edda442b2e678b25b537cec683a1493fcb9 # v7.1.0
+        with:
+          commit_message: "chore: sincroniza README.md <-> README.bbcode [skip ci]"
+          file_pattern: "README.md README.bbcode"
