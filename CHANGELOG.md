@@ -20,11 +20,17 @@ Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
 #### Add files via upload
 
+
+#### Add files via upload
+
 updates
 
 
 
 ### 📚 Documentação
+
+#### atualiza CHANGELOG.md [skip ci]
+
 
 #### atualiza CHANGELOG.md [skip ci]
 
