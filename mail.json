@@ -4,157 +4,133 @@
     //Trocar Id do reset quando atualizar uma versão ja com reset
     //Adicionar o Id do reset antigo a lista
     //{	
-    //"Id":"ResetCHANGE",
+    //"Id":"ResetKent",
 	//"AutoOpen": true,
     //"MailReceivedToRemove": [
-	//	"MailCHANGE01",
-	//	"MailCHANGE02",
-	//	"MailCHANGE03",
-	//	"MailCHANGE04",
-	//	"MailCHANGE05",
-	//	"MailCHANGE06",
-	//	"MailCHANGE07",
-	//	"MailCHANGE08",
-	//	"MailCHANGE09",
-	//	"MailCHANGE10"
+	//	"MailKent01",
+	//	"MailKent02",
+	//	"MailKent03",
+	//	"MailKent04",
+	//	"MailKent05",
+	//	"MailKent06",
+	//	"MailKent07",
+	//	"MailKent08",
+	//	"MailKent09",
+	//	"MailKent10"
 	//    ]
     //},
 
     //Modificar os nomes e trocar os presentes
     //Adicionar ou remover os presentes conforme necessario
     //Alterar de Object para BigCraftable quando necessario
-    //Caso seja necessario usar o exemplo com "Index" das cartas repetiveis 
+    //Caso seja necessario usar o exemplo com "Name" das cartas repetiveis 
         //Ideal para items com nomes diferentes ou caracteres especiais
 	//Alterar codigos dos eventos quando for usar ou remover linha quando nao for necessario
     //Remover todos os comentarios desnecessarios
-
-{
-    "Id": "MailCHANGE01",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE01",
-    "Attachments": [ { "Type": "Object","Name": "ITEM","Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 1 } ]
-},
-
-{ 
-    "Id": "MailCHANGE02",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE02",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 }],
-    "FriendshipConditions": [ {"NpcName": "CHANGE","FriendshipLevel": 2 } ]
-},
-
-{
-    "Id": "MailCHANGE03",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE03",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 3} ]
-},
-
-{
-    "Id": "MailCHANGE04",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE04",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 4 } ]
-},
-
-{
-    "Id": "MailCHANGE05",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE05",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 5 } ]
-},
-
-{
-    "Id": "MailCHANGE06",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE06",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 6 } ]
-},
-
-{
-    "Id": "MailCHANGE07",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE07",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 },
-                     { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 7 } ]
-},
-
-{
-    "Id": "MailCHANGE08",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE08",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 },
-                     { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 8 } ]
-},
-
-{
-    "Id": "MailCHANGE09",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE09",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 },
-                     { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 9 } ]
-},
-
-{
-    "Id": "MailCHANGE10",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE10",
-    "Attachments": [ { "Type": "Object", "Index": "123", "Stack": 1 },
-                     { "Type": "Object", "Name": "ITEM", "Stack": 1 },
-                     { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 10 } ]
-},
-
-    //Carta de evento adicionada no mesmo grupo para nao encher a caixa de correio
-    //Duplicar e adicionar as entradas nos arquivos de tradução correspondentes quando necessario
-
-{ 
-    "Id": "EventMailCHANGE01",
-    "GroupId": "CHANGELetters",
-    "Text": "EventMailCHANGE01",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 }],
-    "EventsSeen": [ "??" ]
-},
-
-    //Alterar os presentes e colocar os nomes nos comentarios
-    //Usar o mesmo Id com quantidades diferentes quando necessario
-
-{
-	"Id": "CHANGERepeteable",
-    "GroupId": "CHANGELetters",
-	"Text": "CHANGERepeteable",
+ {
+    "Id": "MailKent01",
+    "GroupId": "KentLetters",
+    "Text": "MailKent01",
+    "Attachments": [ { "Type": "Object","Name": "Torch","Stack": 1 } ],
+    "FriendshipConditions": [ { "NpcName": "Kent", "FriendshipLevel": 1 } ]
+ },
+ { 
+    "Id": "MailKent02",
+    "GroupId": "KentLetters",
+    "Text": "MailKent02",
+    "Attachments": [ { "Type": "Object", "Name": "Field Snack", "Stack": 1 }],
+    "FriendshipConditions": [ {"NpcName": "Kent","FriendshipLevel": 2 } ]
+ },
+ {
+    "Id": "MailKent03",
+    "GroupId": "KentLetters",
+    "Text": "MailKent03",
+    "Attachments": [ { "Type": "Object", "Name": "Hazelnut", "Stack": 5 } ],
+    "FriendshipConditions": [ { "NpcName": "Kent", "FriendshipLevel": 3} ]
+ },
+ {
+    "Id": "MailKent04",
+    "GroupId": "KentLetters",
+    "Text": "MailKent04",
+    "Attachments": [ { "Type": "Object", "Name": "Cookout Kit", "Stack": 1 } ],
+    "FriendshipConditions": [ { "NpcName": "Kent", "FriendshipLevel": 4 } ]
+ },
+ {
+    "Id": "MailKent05",
+    "GroupId": "KentLetters",
+    "Text": "MailKent05",
+    "Attachments": [ { "Type": "Object", "Name": "Energy Tonic", "Stack": 1 } ],
+    "FriendshipConditions": [ { "NpcName": "Kent", "FriendshipLevel": 5 } ]
+ },
+ {
+    "Id": "MailKent06",
+    "GroupId": "KentLetters",
+    "Text": "MailKent06",
+    "Attachments": [ { "Type": "Object", "Name": "Raisins", "Stack": 1 } ],
+    "FriendshipConditions": [ { "NpcName": "Kent", "FriendshipLevel": 6 } ]
+ },
+ {
+    "Id": "MailKent07",
+    "GroupId": "KentLetters",
+    "Text": "MailKent07",
+    "Attachments": [ { "Type": "Object", "Name": "Survival Burger", "Stack": 1 } ],
+    "FriendshipConditions": [ { "NpcName": "Kent", "FriendshipLevel": 7 } ]
+ },
+ {
+    "Id": "MailKent08",
+    "GroupId": "KentLetters",
+    "Text": "MailKent08",
+    "Attachments": [ { "Type": "Object", "Name": "Life Elixir", "Stack": 1 },
+                     { "Type": "Object", "Name": "Torch", "Stack": 1 } ],
+    "FriendshipConditions": [ { "NpcName": "Kent", "FriendshipLevel": 8 } ]
+ },
+ {
+    "Id": "MailKent09",
+    "GroupId": "KentLetters",
+    "Text": "MailKent09",
+    "Attachments": [ { "Type": "BigCraftable", "Name": "Tent Kit", "Stack": 1 },
+                     { "Type": "Object", "Name": "Cookout Kit", "Stack": 1 } ],
+    "FriendshipConditions": [ { "NpcName": "Kent", "FriendshipLevel": 9 } ]
+ },
+ {
+    "Id": "MailKent10",
+    "GroupId": "KentLetters",
+    "Text": "MailKent10",
+    "Attachments": [ { "Type": "Object", "Name": "Roasted Hazelnuts", "Stack": 1 },
+                     { "Type": "Object", "Name": "Energy Tonic", "Stack": 1 } ],
+    "FriendshipConditions": [ { "NpcName": "Kent", "FriendshipLevel": 10 } ]
+ },
+ {
+	"Id": "KentRepeteable",
+    "GroupId": "KentLetters",
+	"Text": "KentRepeteable",
 	"Repeatable": true,
 	"RandomChance": 0.075,
-	"FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 1 } ],
+	"FriendshipConditions": [ { "NpcName": "Kent", "FriendshipLevel": 1 } ],
 	"RandomlyChooseAttachment": 1,
 	"Attachments": [
-		{ "Type": "Object", "Index": "000", "Stack": 1, "RandomGroup": "GROUPNAME" }, //ITEM
-        { "Type": "Object", "Index": "000", "Stack": 2, "RandomGroup": "GROUPNAME" }, //ITEM    
-		{ "Type": "Object", "Index": "000", "Stack": 3, "RandomGroup": "GROUPNAME" }, //ITEM
+		{ "Type": "Object", "Name": "Common Mushroom", "Stack": 1, "RandomGroup": "Survival" },
+        
+        { "Type": "Object", "Name": "Leek", "Stack": 1, "RandomGroup": "Survival" },
 		
-        { "Type": "Object", "Index": "000", "Stack": 1, "RandomGroup": "GROUPNAME" }, //ITEM
-		{ "Type": "Object", "Index": "000", "Stack": 2, "RandomGroup": "GROUPNAME" }, //ITEM
-		{ "Type": "Object", "Index": "000", "Stack": 3, "RandomGroup": "GROUPNAME" }, //ITEM
+        { "Type": "Object", "Name": "Salmonberry", "Stack": 3, "RandomGroup": "Survival" },
+		{ "Type": "Object", "Name": "Salmonberry", "Stack": 5, "RandomGroup": "Survival" },
+
+        { "Type": "Object", "Name": "Spring Onion", "Stack": 1, "RandomGroup": "Survival" },
 		
-        { "Type": "Object", "Index": "000", "Stack": 1, "RandomGroup": "GROUPNAME" }, //ITEM
-		{ "Type": "Object", "Index": "000", "Stack": 2, "RandomGroup": "GROUPNAME" }, //ITEM
-		{ "Type": "Object", "Index": "000", "Stack": 3, "RandomGroup": "GROUPNAME" }, //ITEM
+        { "Type": "Object", "Name": "Wild Horseradish", "Stack": 1, "RandomGroup": "Survival" },
 		
-        { "Type": "Object", "Index": "000", "Stack": 5, "RandomGroup": "GROUPNAME" }, //ITEM 
-		{ "Type": "Object", "Index": "000", "Stack": 10, "RandomGroup": "GROUPNAME" }, //ITEM
-		{ "Type": "Object", "Index": "000", "Stack": 15, "RandomGroup": "GROUPNAME" }, //ITEM
+        { "Type": "Object", "Name": "Grape", "Stack": 3, "RandomGroup": "Survival" },
+        { "Type": "Object", "Name": "Grape", "Stack": 5, "RandomGroup": "Survival" },
 		
-        { "Type": "Object", "Index": "000", "Stack": 3,  "RandomGroup": "GROUPNAME" }, //ITEM
-		{ "Type": "Object", "Index": "000", "Stack": 5,  "RandomGroup": "GROUPNAME" }, //ITEM
-		{ "Type": "Object", "Index": "000", "Stack": 7,  "RandomGroup": "GROUPNAME" } //ITEM
+        { "Type": "Object", "Name": "Spice Berry", "Stack": 1, "RandomGroup": "Survival" }, 
+		
+        { "Type": "Object", "Name": "Blackberry", "Stack": 3, "RandomGroup": "Survival" }, 
+		{ "Type": "Object", "Name": "Blackberry", "Stack": 5, "RandomGroup": "Survival" }, 
+		
+        { "Type": "Object", "Name": "Wild Plum", "Stack": 10, "RandomGroup": "Survival" },
+				
+        { "Type": "Object", "Name": "Winter Root", "Stack": 3,  "RandomGroup": "Survival" }
     ]
-}
+ }
 ]

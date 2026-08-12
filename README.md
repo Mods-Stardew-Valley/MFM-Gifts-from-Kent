@@ -1,11 +1,3 @@
-# Gifts-from-TEMPLATE
-Template padrão para os mods Gifts from
-Para facilitar o trabalho com os repositorios e padronizar os mods da serie
-Esse template contempla todos os arquivos necessarios para o mod funcionar
-Basta apenas modificar os nomes e os itens conforme necessario
-Editar a descrição e adicionar os presentes nas seções corretas
-Facilitando todo o processo ate a postagem em diversos sites
-
 # Descrição 
 
 [b][size=4]✨ Features[/size][/b]
@@ -23,52 +15,36 @@ Facilitando todo o processo ate a postagem em diversos sites
 
 # Gifts
 
-[spoiler][center][size=4][b]Gifts for Friendship 1 to 10 💖[/b][/size][/center]
-<hr>
+[center][size=4][b]Gifts for Friendship 1 to 10 💖[/b][/size][/center]
+[spoiler]
 [list=1]
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[list]
-<hr>
-[center][size=4][b]💖 Event Gifts[/b][/size][/center]
-<hr>
-[list=1]
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
+[*] - Torch 
+[*] - Field Snack
+[*] - Hazelnut x5
+[*] - Cookout Kit
+[*] - Energy Tonic
+[*] - Raisins
+[*] - Survival Burger
+[*] - Life Elixir + Torch
+[*] - Tent Kit + Cookout Kit
+[*] - Roasted Hazelnuts + Energy Tonic
 [/list]
-<hr>
+[/spoiler]
 
 [center][size=4][b]Repeteables[/b][/size][/center]
-<hr>
+[spoiler]
 [list]
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
+[*] - Common Mushroom
+[*] - Leek
+[*] - Salmonberry
+[*] - Spring Onion
+[*] - Wild Horseradish
+[*] - Grape
+[*] - Spice Berry
+[*] - Blackberry
+[*] - Wild Plum
+[*] - Winter Root
 [/list]
-<hr>
 [/spoiler]
 
 ────────────────────────────
@@ -106,13 +82,3 @@ There you'll find frequent updates and upcoming news.
 For more details on my mods and current projects, see my working folder.
 
 [url=https://github.com/Mods-Stardew-Valley][b][size=4]Mods Stardew Valley[/size][/b][/url]
-
-
-
-Padrão de assinaturra 
-  
-  ^^- [Pequena frase de carinho]^[NPC]"
-
-Exemplo
-  
-  ^^- Com Todo o Meu Amor^Sebastian"
