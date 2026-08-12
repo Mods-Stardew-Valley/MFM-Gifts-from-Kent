@@ -1,0 +1,160 @@
+[
+    //Reset de progressao para mods apos a primeira versão ser lancaça
+    //Remover comentarios quando atualizar a versão ou lançar correção
+    //Trocar Id do reset quando atualizar uma versão ja com reset
+    //Adicionar o Id do reset antigo a lista
+    //{	
+    //"Id":"ResetCHANGE",
+	//"AutoOpen": true,
+    //"MailReceivedToRemove": [
+	//	"MailCHANGE01",
+	//	"MailCHANGE02",
+	//	"MailCHANGE03",
+	//	"MailCHANGE04",
+	//	"MailCHANGE05",
+	//	"MailCHANGE06",
+	//	"MailCHANGE07",
+	//	"MailCHANGE08",
+	//	"MailCHANGE09",
+	//	"MailCHANGE10"
+	//    ]
+    //},
+
+    //Modificar os nomes e trocar os presentes
+    //Adicionar ou remover os presentes conforme necessario
+    //Alterar de Object para BigCraftable quando necessario
+    //Caso seja necessario usar o exemplo com "Index" das cartas repetiveis 
+        //Ideal para items com nomes diferentes ou caracteres especiais
+	//Alterar codigos dos eventos quando for usar ou remover linha quando nao for necessario
+    //Remover todos os comentarios desnecessarios
+
+{
+    "Id": "MailCHANGE01",
+    "GroupId": "CHANGELetters",
+    "Text": "MailCHANGE01",
+    "Attachments": [ { "Type": "Object","Name": "ITEM","Stack": 1 } ],
+    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 1 } ]
+},
+
+{ 
+    "Id": "MailCHANGE02",
+    "GroupId": "CHANGELetters",
+    "Text": "MailCHANGE02",
+    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 }],
+    "FriendshipConditions": [ {"NpcName": "CHANGE","FriendshipLevel": 2 } ]
+},
+
+{
+    "Id": "MailCHANGE03",
+    "GroupId": "CHANGELetters",
+    "Text": "MailCHANGE03",
+    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 3} ]
+},
+
+{
+    "Id": "MailCHANGE04",
+    "GroupId": "CHANGELetters",
+    "Text": "MailCHANGE04",
+    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 4 } ]
+},
+
+{
+    "Id": "MailCHANGE05",
+    "GroupId": "CHANGELetters",
+    "Text": "MailCHANGE05",
+    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 5 } ]
+},
+
+{
+    "Id": "MailCHANGE06",
+    "GroupId": "CHANGELetters",
+    "Text": "MailCHANGE06",
+    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 6 } ]
+},
+
+{
+    "Id": "MailCHANGE07",
+    "GroupId": "CHANGELetters",
+    "Text": "MailCHANGE07",
+    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 },
+                     { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 7 } ]
+},
+
+{
+    "Id": "MailCHANGE08",
+    "GroupId": "CHANGELetters",
+    "Text": "MailCHANGE08",
+    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 },
+                     { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 8 } ]
+},
+
+{
+    "Id": "MailCHANGE09",
+    "GroupId": "CHANGELetters",
+    "Text": "MailCHANGE09",
+    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 },
+                     { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 9 } ]
+},
+
+{
+    "Id": "MailCHANGE10",
+    "GroupId": "CHANGELetters",
+    "Text": "MailCHANGE10",
+    "Attachments": [ { "Type": "Object", "Index": "123", "Stack": 1 },
+                     { "Type": "Object", "Name": "ITEM", "Stack": 1 },
+                     { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 10 } ]
+},
+
+    //Carta de evento adicionada no mesmo grupo para nao encher a caixa de correio
+    //Duplicar e adicionar as entradas nos arquivos de tradução correspondentes quando necessario
+
+{ 
+    "Id": "EventMailCHANGE01",
+    "GroupId": "CHANGELetters",
+    "Text": "EventMailCHANGE01",
+    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 }],
+    "EventsSeen": [ "??" ]
+},
+
+    //Alterar os presentes e colocar os nomes nos comentarios
+    //Usar o mesmo Id com quantidades diferentes quando necessario
+
+{
+	"Id": "CHANGERepeteable",
+    "GroupId": "CHANGELetters",
+	"Text": "CHANGERepeteable",
+	"Repeatable": true,
+	"RandomChance": 0.075,
+	"FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 1 } ],
+	"RandomlyChooseAttachment": 1,
+	"Attachments": [
+		{ "Type": "Object", "Index": "000", "Stack": 1, "RandomGroup": "GROUPNAME" }, //ITEM
+        { "Type": "Object", "Index": "000", "Stack": 2, "RandomGroup": "GROUPNAME" }, //ITEM    
+		{ "Type": "Object", "Index": "000", "Stack": 3, "RandomGroup": "GROUPNAME" }, //ITEM
+		
+        { "Type": "Object", "Index": "000", "Stack": 1, "RandomGroup": "GROUPNAME" }, //ITEM
+		{ "Type": "Object", "Index": "000", "Stack": 2, "RandomGroup": "GROUPNAME" }, //ITEM
+		{ "Type": "Object", "Index": "000", "Stack": 3, "RandomGroup": "GROUPNAME" }, //ITEM
+		
+        { "Type": "Object", "Index": "000", "Stack": 1, "RandomGroup": "GROUPNAME" }, //ITEM
+		{ "Type": "Object", "Index": "000", "Stack": 2, "RandomGroup": "GROUPNAME" }, //ITEM
+		{ "Type": "Object", "Index": "000", "Stack": 3, "RandomGroup": "GROUPNAME" }, //ITEM
+		
+        { "Type": "Object", "Index": "000", "Stack": 5, "RandomGroup": "GROUPNAME" }, //ITEM 
+		{ "Type": "Object", "Index": "000", "Stack": 10, "RandomGroup": "GROUPNAME" }, //ITEM
+		{ "Type": "Object", "Index": "000", "Stack": 15, "RandomGroup": "GROUPNAME" }, //ITEM
+		
+        { "Type": "Object", "Index": "000", "Stack": 3,  "RandomGroup": "GROUPNAME" }, //ITEM
+		{ "Type": "Object", "Index": "000", "Stack": 5,  "RandomGroup": "GROUPNAME" }, //ITEM
+		{ "Type": "Object", "Index": "000", "Stack": 7,  "RandomGroup": "GROUPNAME" } //ITEM
+    ]
+}
+]

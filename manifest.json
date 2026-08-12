@@ -1,0 +1,16 @@
+{
+   "Name": "Gifts from CHANGE",
+   "Author": "LoganDoidao",
+   "Version": "0.0.0",
+   "MinimumApiVersion": "4.1.0", 
+   "Description": "Receive letters and gifts from your friend CHANGE. ",
+   "UniqueID": "LoganDoidao.GiftsFromCHANGE",
+        "UpdateKeys": [ 
+            "GitHub:Mods-Stardew-Valley/GITHUB-REPOSITORY-NAME",
+            "Nexus:null" 
+            ], 
+   "ContentPackFor": {
+       "UniqueID": "DIGUS.MailFrameworkMod", 
+       "MinimumVersion": "1.20.0"
+	}
+}
