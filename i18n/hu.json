@@ -1,16 +1,15 @@
 //Hungarian Translation
 //hu.json
 {
-"CHANGERepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE10":  "INCERIR TEXTO DAS CARTAS AQUI",
-"EventMailCHANGE01": "INCERIR TEXTO DA CARTA AQUI"
+  "KentRepeteable": "Szia @^^Gondoltam, ez hasznodra válhat.^Mindig jó, ha van kéznél egy gyors harapnivaló.^^-Kent",
+  "MailKent01": "Szia @^^Gondoltam, ez hasznodra válhat.^Nem jó fény nélkül maradni, amikor messze vagy otthonról.^^-Kent",
+  "MailKent02": "Szia @^^Gondoltam, ezt fel tudod használni.^Mindig jó, ha van nálad valami gyorsan fogyasztható étel.^^-Kent",
+  "MailKent03": "Szia @^^Találtam néhányat, és félretettem neked.^Jól jönnek, ha hosszabb időre elindulsz otthonról.^^-Kent",
+  "MailKent04": "Szia @^^Gondoltam, ezt hasznosítani tudod.^Egy meleg étel sokat számít egy nehéz nap után.^^-Kent",
+  "MailKent05": "Szia @^^Biztosan hasznosnak találod majd.^Néha csak vissza kell nyerni az erőt, és folytatni kell.^^-Kent",
+  "MailKent06": "Szia @^^Félretettem belőle neked.^Könnyű eltenni és magaddal vinni, amikor szükséged van rá.^^-Kent",
+  "MailKent07": "Szia @^^Neked készítettem.^Az ilyen étel segít átvészelni egy nehéz napot.^^-Kent",
+  "MailKent08": "Szia @^^Szeretném, ha ezt kéznél tartanád.^Sosem tudhatod, mikor fordulhatnak rosszra a dolgok.^^-Kent",
+  "MailKent09": "Szia @^^Gondoltam, neked is kellene egy ilyen.^Ha egy időre távol leszel otthonról, jobb felkészülten indulni.^^-Kent",
+  "MailKent10": "Szia @^^Ezt neked szerettem volna adni.^Köszönöm, hogy otthon érezhettem magam itt.^^-Kent"
 }
