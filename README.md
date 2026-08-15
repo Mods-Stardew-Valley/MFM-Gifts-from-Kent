@@ -1,6 +1,6 @@
-# Descrição 
+# Descrição
 
-[b][size=4]✨ Features[/size][/b]
+**[size=4]✨ Features[/size]**
 
 ✔ Unique gifts for every friendship level
 ✔ Character themed rewards
@@ -15,51 +15,49 @@
 
 # Gifts
 
-[center][size=4][b]Gifts for Friendship 1 to 10 💖[/b][/size][/center]
+[center]###### Gifts for Friendship 1 to 10 💖[/center]
 [spoiler]
 [list=1]
-[*] - Torch 
-[*] - Field Snack
-[*] - Hazelnut x5
-[*] - Cookout Kit
-[*] - Energy Tonic
-[*] - Raisins
-[*] - Survival Burger
-[*] - Life Elixir + Torch
-[*] - Tent Kit + Cookout Kit
-[*] - Roasted Hazelnuts + Energy Tonic
-[/list]
+-  - Torch 
+-  - Field Snack
+-  - Hazelnut x5
+-  - Cookout Kit
+-  - Energy Tonic
+-  - Raisins
+-  - Survival Burger
+-  - Life Elixir + Torch
+-  - Tent Kit + Cookout Kit
+-  - Roasted Hazelnuts + Energy Tonic
 [/spoiler]
 
-[center][size=4][b]Repeteables[/b][/size][/center]
+[center]###### Repeteables[/center]
 [spoiler]
-[list]
-[*] - Common Mushroom
-[*] - Leek
-[*] - Salmonberry
-[*] - Spring Onion
-[*] - Wild Horseradish
-[*] - Grape
-[*] - Spice Berry
-[*] - Blackberry
-[*] - Wild Plum
-[*] - Winter Root
-[/list]
+-  - Common Mushroom
+-  - Leek
+-  - Salmonberry
+-  - Spring Onion
+-  - Wild Horseradish
+-  - Grape
+-  - Spice Berry
+-  - Blackberry
+-  - Wild Plum
+-  - Winter Root
 [/spoiler]
 
 ────────────────────────────
 
-[b][size=4]🌍 Languages Supported[/size][/b]
+**[size=4]🌍 Languages Supported[/size]**
 
-🇺🇸 English - 🇧🇷 🇵🇹 Portuguese 
+🇺🇸 English - 🇧🇷 🇵🇹 Portuguese
 🇪🇸 Spanish  - 🇷🇺 Russian
-🇫🇷 French  - 🇮🇹 Italian 
+🇫🇷 French  - 🇮🇹 Italian
 🇩🇪 German - 🇺🇦 Ukrainian
 🇨🇿 Czech - 🇵🇱 Polish
 🇹🇷 Turkish - 🇭🇺 Hungarian
 🇳🇱 Dutch - 🇯🇵 Japanese
 🇨🇳 Chinese - 🇰🇷 Korean
-🇹🇭 Thai - 🇻🇳 Vietnamese 
+🇩🇰 - Danish - 🇹🇭 Thai
+🇻🇳 Vietnamese
 
 ────────────────────────────
 
@@ -69,16 +67,16 @@ Plus, it motivates me to keep updating and creating more content. 👍🏼
 Seriously. Do it. 😄
 
 💖 Want to do more?
-Consider buying me a [b][url=https://ko-fi.com/logandoidao][size=4]Ko-Fi[/size][/url][/b] ☕
+Consider buying me a **[[size=4]Ko-Fi[/size]](https://ko-fi.com/logandoidao)** ☕
 
 📦 For more of my mods:
-[url=https://www.nexusmods.com/profile/LoganDoidao989/mods?gameId=1303][b][size=4]Click Here![/size][/b][/url]
+[**[size=4]Click Here![/size]**](https://www.nexusmods.com/profile/LoganDoidao989/mods?gameId=1303)
 
 Want to know what I'm working on? Check out my GitHub.
 There you'll find frequent updates and upcoming news.
 
-[url=https://github.com/LoganDoidao989][b][size=4]GitHub Profile[/size][/b][/url]
+[**[size=4]GitHub Profile[/size]**](https://github.com/LoganDoidao989)
 
 For more details on my mods and current projects, see my working folder.
 
-[url=https://github.com/Mods-Stardew-Valley][b][size=4]Mods Stardew Valley[/size][/b][/url]
+[**[size=4]Mods Stardew Valley[/size]**](https://github.com/Mods-Stardew-Valley)
