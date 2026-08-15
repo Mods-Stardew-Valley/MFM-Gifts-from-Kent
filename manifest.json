@@ -1,12 +1,12 @@
 {
-   "Name": "Gifts from CHANGE",
+   "Name": "Gifts from Kent",
    "Author": "LoganDoidao",
    "Version": "0.0.0",
    "MinimumApiVersion": "4.1.0", 
-   "Description": "Receive letters and gifts from your friend CHANGE. ",
-   "UniqueID": "LoganDoidao.GiftsFromCHANGE",
+   "Description": "Receive letters and gifts from your friend Kent. ",
+   "UniqueID": "LoganDoidao.GiftsFromKent",
         "UpdateKeys": [ 
-            "GitHub:Mods-Stardew-Valley/GITHUB-REPOSITORY-NAME",
+            "GitHub:Mods-Stardew-Valley/MFM-Gifts-from-Kent",
             "Nexus:null" 
             ], 
    "ContentPackFor": {
