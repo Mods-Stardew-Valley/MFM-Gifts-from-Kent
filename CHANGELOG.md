@@ -18,6 +18,9 @@ Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
 ### Outras alterações
 
+#### Merge branch 'main' of https://github.com/Mods-Stardew-Valley/MFM-Gifts-from-Kent
+
+
 #### Reduce header size values in md_bbcode_sync.py
 
 Adjust header-to-BBCode size mapping in convert_headers_md2bb: replace oversized values (e.g. 200, 175, ...) with realistic sizes (20, 17, ...) so rendered BBCode uses correct font scaling. This fixes excessively large header output when converting Markdown headers to BBCode.
@@ -37,7 +40,18 @@ updates
 
 
 
+### ✨ Novidades
+
+#### PT-BR
+
+└─ Tradução adicionada
+
+
+
 ### 📚 Documentação
+
+#### atualiza CHANGELOG.md [skip ci]
+
 
 #### atualiza CHANGELOG.md [skip ci]
 
