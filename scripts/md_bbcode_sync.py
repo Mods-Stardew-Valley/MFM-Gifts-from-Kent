@@ -33,7 +33,7 @@ def convert_headers_md2bb(text):
     def repl(match):
         level = len(match.group(1))
         content = match.group(2).strip()
-        sizes = {1: 200, 2: 175, 3: 150, 4: 125, 5: 110, 6: 100}
+        sizes = {1: 20, 2: 17, 3: 15, 4: 12, 5: 11, 6: 10}
         return f"[size={sizes.get(level, 100)}][b]{content}[/b][/size]"
     return re.sub(r"^(#{1,6})\s+(.*)$", repl, text, flags=re.MULTILINE)
 
