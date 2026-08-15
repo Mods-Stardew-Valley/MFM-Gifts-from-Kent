@@ -1,0 +1,15 @@
+//Danish Translation
+//da.json
+{
+  "KentRepeteable": "Hej @^^Jeg tænkte, at dette måske kunne være nyttigt.^Det er altid godt at have en hurtig snack ved hånden.^^-Kent",
+  "MailKent01": "Hej @^^Jeg tænkte, at dette måske kunne være nyttigt.^Det er aldrig godt at være uden lys, når man er langt hjemmefra.^^-Kent",
+  "MailKent02": "Hej @^^Jeg tænkte, at du kunne bruge dette.^Det er altid godt at have noget hurtigt at spise.^^-Kent",
+  "MailKent03": "Hej @^^Jeg fandt nogle af disse og gemte dem til dig.^De er gode at have med, når man er væk i længere tid.^^-Kent",
+  "MailKent04": "Hej @^^Jeg tænkte, at du kunne få glæde af dette.^Et varmt måltid gør en forskel efter en hård dag.^^-Kent",
+  "MailKent05": "Hej @^^Du vil sikkert finde dette nyttigt.^Nogle gange må man bare samle kræfterne og fortsætte.^^-Kent",
+  "MailKent06": "Hej @^^Jeg gemte lidt af dette til dig.^Det er nemt at opbevare og tage med, når du får brug for det.^^-Kent",
+  "MailKent07": "Hej @^^Jeg lavede dette med dig i tankerne.^Det er den slags mad, der hjælper med at klare en hård dag.^^-Kent",
+  "MailKent08": "Hej @^^Jeg vil gerne have, at du har dette ved hånden.^Man ved aldrig, hvornår noget kan gå galt.^^-Kent",
+  "MailKent09": "Hej @^^Jeg tænkte, at du burde have sådan en.^Hvis du skal være væk hjemmefra i noget tid, er det bedst at være forberedt.^^-Kent",
+  "MailKent10": "Hej @^^Jeg ville gerne give dig dette.^Tak, fordi du har fået mig til at føle mig velkommen her.^^-Kent"
+}
