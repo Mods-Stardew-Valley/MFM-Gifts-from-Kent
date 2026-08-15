@@ -1,16 +1,15 @@
 //German Translation
 //de.json
 {
-"CHANGERepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE10":  "INCERIR TEXTO DAS CARTAS AQUI",
-"EventMailCHANGE01": "INCERIR TEXTO DAS CARTA AQUI"
+  "KentRepeteable": "Hallo @^^Ich dachte, das könnte nützlich sein.^Es ist immer gut, einen schnellen Snack zur Hand zu haben.^^-Kent",
+  "MailKent01": "Hallo @^^Ich dachte, das könnte nützlich sein.^Es ist nie gut, ohne Licht dazustehen, wenn man weit von zu Hause entfernt ist.^^-Kent",
+  "MailKent02": "Hallo @^^Ich dachte, du könntest das gebrauchen.^Es ist immer gut, etwas Schnelles zu essen dabei zu haben.^^-Kent",
+  "MailKent03": "Hallo @^^Ich habe ein paar davon gefunden und für dich aufgehoben.^Sie lassen sich gut mitnehmen, wenn man länger unterwegs ist.^^-Kent",
+  "MailKent04": "Hallo @^^Ich dachte, du könntest das gebrauchen.^Eine warme Mahlzeit macht nach einem anstrengenden Tag einen Unterschied.^^-Kent",
+  "MailKent05": "Hallo @^^Das wirst du sicher nützlich finden.^Manchmal muss man einfach wieder zu Kräften kommen und weitermachen.^^-Kent",
+  "MailKent06": "Hallo @^^Ich habe etwas davon für dich aufgehoben.^Es lässt sich leicht aufbewahren und mitnehmen, wenn du es brauchst.^^-Kent",
+  "MailKent07": "Hallo @^^Ich habe das für dich gemacht.^So ein Essen hilft, einen anstrengenden Tag durchzustehen.^^-Kent",
+  "MailKent08": "Hallo @^^Ich möchte, dass du das griffbereit hast.^Man weiß nie, wann etwas schiefgeht.^^-Kent",
+  "MailKent09": "Hallo @^^Ich dachte, du solltest so etwas haben.^Wenn du eine Weile von zu Hause weg bist, ist es besser, vorbereitet zu sein.^^-Kent",
+  "MailKent10": "Hallo @^^Ich wollte dir das geben.^Danke, dass du mir das Gefühl gegeben hast, hier willkommen zu sein.^^-Kent"
 }
