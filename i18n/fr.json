@@ -1,16 +1,15 @@
 //French Translation
 //fr.json
 {
-"CHANGERepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE10":  "INCERIR TEXTO DAS CARTAS AQUI",
-"EventMailCHANGE01": "INCERIR TEXTO DAS CARTA AQUI"
+  "KentRepeteable": "Bonjour @^^Je pensais que cela pourrait t'être utile.^C'est toujours pratique d'avoir un en-cas rapide sous la main.^^-Kent",
+  "MailKent01": "Bonjour @^^Je pensais que cela pourrait t'être utile.^Ce n'est jamais une bonne idée de se retrouver sans lumière loin de chez soi.^^-Kent",
+  "MailKent02": "Bonjour @^^Je pensais que tu pourrais en avoir besoin.^C'est toujours pratique d'avoir quelque chose à manger rapidement.^^-Kent",
+  "MailKent03": "Bonjour @^^J'en ai trouvé quelques-uns et je les ai gardés pour toi.^C'est pratique à emporter quand on s'absente pendant un moment.^^-Kent",
+  "MailKent04": "Bonjour @^^Je pensais que cela pourrait te plaire.^Un repas chaud fait toute la différence après une journée difficile.^^-Kent",
+  "MailKent05": "Bonjour @^^Tu trouveras sûrement cela utile.^Parfois, il faut simplement reprendre des forces et continuer.^^-Kent",
+  "MailKent06": "Bonjour @^^J'en ai gardé un peu pour toi.^C'est facile à conserver et à emporter quand tu en as besoin.^^-Kent",
+  "MailKent07": "Bonjour @^^J'ai préparé ça pour toi.^Ce genre de repas aide à tenir le coup lors d'une journée difficile.^^-Kent",
+  "MailKent08": "Bonjour @^^Je veux que tu gardes ça à portée de main.^On ne sait jamais quand quelque chose peut mal tourner.^^-Kent",
+  "MailKent09": "Bonjour @^^Je pensais que tu devrais en avoir un.^Si tu dois t'absenter de chez toi pendant un moment, mieux vaut être préparé.^^-Kent",
+  "MailKent10": "Bonjour @^^Je voulais te donner ça.^Merci de m'avoir fait sentir le bienvenu ici.^^-Kent"
 }
