@@ -13,10 +13,13 @@ Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
 
 
-## Unreleased
+## v1.0.0 - 2026-08-17
 
 
 ### Outras alterações
+
+#### Merge branch 'main' of https://github.com/Mods-Stardew-Valley/MFM-Gifts-from-Kent
+
 
 #### Merge branch 'main' of https://github.com/Mods-Stardew-Valley/MFM-Gifts-from-Kent
 
@@ -44,6 +47,66 @@ updates
 
 
 ### ✨ Novidades
+
+#### zh.json
+
+└─ Adicionado a tradução para Chines Simplificado
+
+
+#### vi.json
+
+└─ Adicionado a tradução para Vietnamita
+
+
+#### uk.json
+
+└─ Adicionado a tradução para Ucraniano
+
+
+#### tr.json
+
+└─ Adicionado a tradução para Turco
+
+
+#### th.json
+
+└─ Adicionado a tradução para Tailandes
+
+
+#### ru.json
+
+└─ Adicionado a tradução para Russo
+
+
+#### pt.json
+
+└─ Adicionado a tradução para Portugues Europeu
+
+
+#### pl.json
+
+└─ Adicionado a tradução para Polones
+
+
+#### nl.json
+
+└─ Adicionado a tradução para Holandes
+
+
+#### ko.json
+
+└─ Adicionado a tradução para Coreano
+
+
+#### ja.json
+
+└─ Adicionado a tradução para Japones
+
+
+#### it.json
+
+└─ Adicionado a tradução para Italiano
+
 
 #### hu.json
 
@@ -81,6 +144,15 @@ updates
 
 
 
+### 🏗 Versão
+
+#### v1.0.0
+
+└─ Atualizada a versão para primeira funcional
+Adicionado chave de atualização Nexus
+
+
+
 ### 🐛 Correções
 
 #### name change
@@ -90,6 +162,19 @@ updates
 
 
 ### 📚 Documentação
+
+#### Updade no readme
+
+└─ Adicionado descrição e alterados os tamanhos no codigo
+
+
+#### atualiza CHANGELOG.md [skip ci]
+
+
+#### Atualizadas traduções
+
+└─ Acrescentada Dinamarques as traduções suportadas
+
 
 #### atualiza CHANGELOG.md [skip ci]
 
@@ -108,6 +193,9 @@ updates
 
 
 ### 🔧 Manutenção
+
+#### sincroniza README.md <-> README.bbcode [skip ci]
+
 
 #### sincroniza README.md <-> README.bbcode [skip ci]
 
