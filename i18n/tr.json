@@ -1,16 +1,15 @@
 //Turkish Translation
 //tr.json
 {
-"CHANGERepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE10":  "INCERIR TEXTO DAS CARTAS AQUI",
-"EventMailCHANGE01": "INCERIR TEXTO DA CARTA AQUI"
+  "KentRepeteable": "Merhaba @^^Bunun işine yarayabileceğini düşündüm.^Her zaman elinin altında hızlıca yiyebileceğin bir şey olması iyidir.^^-Kent",
+  "MailKent01": "Merhaba @^^Bunun işine yarayabileceğini düşündüm.^Evden uzaktayken ışıksız kalmak hiç iyi olmaz.^^-Kent",
+  "MailKent02": "Merhaba @^^Bunu kullanabileceğini düşündüm.^Her zaman yanında hızlıca yiyebileceğin bir şey olması iyidir.^^-Kent",
+  "MailKent03": "Merhaba @^^Birkaç tane buldum ve senin için ayırdım.^Bir süre dışarıda olacaksan yanında götürmek için ideal.^^-Kent",
+  "MailKent04": "Merhaba @^^Bunun işine yarayabileceğini düşündüm.^Zor bir günün ardından sıcak bir yemek çok fark eder.^^-Kent",
+  "MailKent05": "Merhaba @^^Bunun işine yarayacağını düşünüyorum.^Bazen gücünü toparlayıp devam etmek gerekir.^^-Kent",
+  "MailKent06": "Merhaba @^^Birazını senin için ayırdım.^İhtiyacın olduğunda saklaması ve yanında taşıması kolay.^^-Kent",
+  "MailKent07": "Merhaba @^^Bunu senin için hazırladım.^Böyle bir yemek zor bir günü atlatmana yardımcı olur.^^-Kent",
+  "MailKent08": "Merhaba @^^Bunu elinin altında tutmanı istiyorum.^Ne zaman bir şeylerin ters gideceğini asla bilemezsin.^^-Kent",
+  "MailKent09": "Merhaba @^^Böyle bir şeyin sende olması gerektiğini düşündüm.^Bir süre evden uzakta olacaksan hazırlıklı olmak en iyisi.^^-Kent",
+  "MailKent10": "Merhaba @^^Bunu sana vermek istedim.^Burada kendimi hoş karşılanmış hissetmemi sağladığın için teşekkürler.^^-Kent"
 }
