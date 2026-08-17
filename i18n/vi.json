@@ -1,16 +1,15 @@
 //Vietnamese Translation
 //vi.json
 {
-"CHANGERepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE10":  "INCERIR TEXTO DAS CARTAS AQUI",
-"EventMailCHANGE01": "INCERIR TEXTO DA CARTA AQUI"
+"KentRepeteable": "Chào @^^Tôi nghĩ món này có thể sẽ có ích đấy.^Có sẵn chút đồ ăn vặt bao giờ cũng tốt.^^-Kent",
+"MailKent01": "Chào @^^Tôi nghĩ cái này có thể sẽ có ích đấy.Đi xa nhà mà thiếu ánh sáng thì không hay chút nào.^^-Kent",
+"MailKent02": "Chào @^^Tôi nghĩ cậu có thể dùng cái này.Có gì đó ăn nhanh gọn lúc nào cũng tiện.^^-Kent",
+"MailKent03": "Chào @^^Tôi tìm thấy mấy cái này nên giữ lại cho cậu.Rất tiện để mang theo khi phải ra ngoài lâu.^^-Kent",
+"MailKent04": "Chào @^^Tôi nghĩ cậu sẽ thích món này.Một bữa ăn nóng hổi sẽ tiếp thêm sức lực sau một ngày vất vả.^^-Kent",
+"MailKent05": "Chào @^^Có lẽ cậu sẽ thấy cái này có ích.Đôi khi chúng ta cần hồi phục lại sức lực để tiếp tục tiến lên.^^-Kent",
+"MailKent06": "Chào @^^Tôi có để dành một ít món này cho cậu.Món này rất dễ bảo quản và mang theo khi cần.^^-Kent",
+"MailKent07": "Chào @^^Tôi làm món này và nghĩ ngay đến cậu.Đây là loại đồ ăn giúp cậu vượt qua một ngày dài mệt mỏi.^^-Kent",
+"MailKent08": "Chào @^^Tôi muốn cậu giữ cái này bên mình.Chẳng ai biết trước được khi nào rủi ro sẽ xảy ra đâu.^^-Kent",
+"MailKent09": "Chào @^^Tôi nghĩ cậu nên có một cái này.Nếu sắp đi xa nhà một thời gian, tốt nhất là nên chuẩn bị kỹ càng.^^-Kent",
+"MailKent10": "Chào @^^Tôi muốn gửi tặng cậu cái này.Cảm ơn cậu vì đã khiến tôi cảm thấy được chào đón ở đây.^^-Kent"
 }
