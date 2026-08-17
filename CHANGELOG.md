@@ -203,7 +203,7 @@ Adicionado chave de atualização Nexus
 
 
 
-## Unreleased
+## v1.0.1 - 2026-08-17
 
 
 ### Outras alterações
@@ -219,7 +219,18 @@ Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>
 
 
 
+### 🐛 Correções
+
+#### Gifts error
+
+└─ Corrigido aviso de item errado no presente da carta 9
+
+
+
 ### 📚 Documentação
+
+#### atualiza CHANGELOG.md [skip ci]
+
 
 #### atualiza CHANGELOG.md [skip ci]
 
