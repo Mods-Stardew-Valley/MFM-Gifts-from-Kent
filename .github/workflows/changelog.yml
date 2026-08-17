@@ -54,10 +54,13 @@ jobs:
           ZIP_NAME="${{ github.event.repository.name }}-${{ steps.manifest.outputs.version }}.zip"
           zip -r "$ZIP_NAME" . \
             -x ".git/*" \
+            -x ".git-cliff/*" \
+            -x ".scripts/*" \
             -x ".github/*" \
-            -x ".gitattributes/*" \
+            -x ".gitattributes" \
             -x "cliff.toml" \
             -x "README.md" \
+            -x "README.bbcode" \
             -x "CHANGELOG.md" \
             -x "*.zip"
 
