@@ -202,3 +202,27 @@ Adicionado chave de atualização Nexus
 
 
 
+
+## Unreleased
+
+
+### Outras alterações
+
+#### Merge branch 'main' of https://github.com/Mods-Stardew-Valley/MFM-Gifts-from-Kent
+
+
+#### Adjust archive exclusions in changelog workflow
+
+Update .github/workflows/changelog.yml to refine files excluded from the release ZIP: add .git-cliff and .scripts, exclude README.bbcode, and fix .gitattributes exclusion (file, not directory glob). This prevents auxiliary files from being packaged into the release archive.
+
+Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>
+
+
+
+### 📚 Documentação
+
+#### atualiza CHANGELOG.md [skip ci]
+
+
+
+
