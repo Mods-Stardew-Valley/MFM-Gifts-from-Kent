@@ -1,16 +1,15 @@
 //Russian Translation
 //ru.json
 {
-"CHANGERepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE10":  "INCERIR TEXTO DAS CARTAS AQUI",
-"EventMailCHANGE01": "INCERIR TEXTO DA CARTA AQUI"
+  "KentRepeteable": "Привет @^^Я подумал, что это может тебе пригодиться.^Всегда хорошо иметь под рукой что-нибудь на скорую закуску.^^-Кент",
+  "MailKent01": "Привет @^^Я подумал, что это может тебе пригодиться.^Нехорошо остаться без света, когда находишься далеко от дома.^^-Кент",
+  "MailKent02": "Привет @^^Я подумал, что тебе это пригодится.^Всегда хорошо иметь с собой что-нибудь быстро перекусить.^^-Кент",
+  "MailKent03": "Привет @^^Я нашёл несколько штук и отложил их для тебя.^Их удобно брать с собой, когда надолго уходишь из дома.^^-Кент",
+  "MailKent04": "Привет @^^Я подумал, что тебе это пригодится.^После тяжёлого дня горячая еда всегда кстати.^^-Кент",
+  "MailKent05": "Привет @^^Думаю, это тебе пригодится.^Иногда нужно просто восстановить силы и продолжать идти дальше.^^-Кент",
+  "MailKent06": "Привет @^^Я отложил немного для тебя.^Это легко хранить и брать с собой, когда понадобится.^^-Кент",
+  "MailKent07": "Привет @^^Я приготовил это для тебя.^Такая еда помогает пережить тяжёлый день.^^-Кент",
+  "MailKent08": "Привет @^^Хочу, чтобы это было у тебя под рукой.^Никогда не знаешь, когда что-нибудь может пойти не так.^^-Кент",
+  "MailKent09": "Привет @^^Я подумал, что тебе стоит иметь такую вещь.^Если собираешься ненадолго уйти из дома, лучше быть готовым.^^-Кент",
+  "MailKent10": "Привет @^^Я хотел отдать это тебе.^Спасибо, что помог мне почувствовать себя здесь желанным гостем.^^-Кент"
 }
