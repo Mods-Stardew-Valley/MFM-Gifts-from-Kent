@@ -19,14 +19,6 @@
 	//	"MailKent10"
 	//    ]
     //},
-
-    //Modificar os nomes e trocar os presentes
-    //Adicionar ou remover os presentes conforme necessario
-    //Alterar de Object para BigCraftable quando necessario
-    //Caso seja necessario usar o exemplo com "Name" das cartas repetiveis 
-        //Ideal para items com nomes diferentes ou caracteres especiais
-	//Alterar codigos dos eventos quando for usar ou remover linha quando nao for necessario
-    //Remover todos os comentarios desnecessarios
  {
     "Id": "MailKent01",
     "GroupId": "KentLetters",
@@ -88,7 +80,7 @@
     "Id": "MailKent09",
     "GroupId": "KentLetters",
     "Text": "MailKent09",
-    "Attachments": [ { "Type": "BigCraftable", "Name": "Tent Kit", "Stack": 1 },
+    "Attachments": [ { "Type": "Object", "Name": "Tent Kit", "Stack": 1 },
                      { "Type": "Object", "Name": "Cookout Kit", "Stack": 1 } ],
     "FriendshipConditions": [ { "NpcName": "Kent", "FriendshipLevel": 9 } ]
  },
@@ -109,12 +101,12 @@
 	"FriendshipConditions": [ { "NpcName": "Kent", "FriendshipLevel": 1 } ],
 	"RandomlyChooseAttachment": 1,
 	"Attachments": [
-		{ "Type": "Object", "Name": "Common Mushroom", "Stack": 1, "RandomGroup": "Survival" },
+		  { "Type": "Object", "Name": "Common Mushroom", "Stack": 1, "RandomGroup": "Survival" },
         
         { "Type": "Object", "Name": "Leek", "Stack": 1, "RandomGroup": "Survival" },
 		
         { "Type": "Object", "Name": "Salmonberry", "Stack": 3, "RandomGroup": "Survival" },
-		{ "Type": "Object", "Name": "Salmonberry", "Stack": 5, "RandomGroup": "Survival" },
+	     { "Type": "Object", "Name": "Salmonberry", "Stack": 5, "RandomGroup": "Survival" },
 
         { "Type": "Object", "Name": "Spring Onion", "Stack": 1, "RandomGroup": "Survival" },
 		
@@ -126,7 +118,7 @@
         { "Type": "Object", "Name": "Spice Berry", "Stack": 1, "RandomGroup": "Survival" }, 
 		
         { "Type": "Object", "Name": "Blackberry", "Stack": 3, "RandomGroup": "Survival" }, 
-		{ "Type": "Object", "Name": "Blackberry", "Stack": 5, "RandomGroup": "Survival" }, 
+		  { "Type": "Object", "Name": "Blackberry", "Stack": 5, "RandomGroup": "Survival" }, 
 		
         { "Type": "Object", "Name": "Wild Plum", "Stack": 10, "RandomGroup": "Survival" },
 				
