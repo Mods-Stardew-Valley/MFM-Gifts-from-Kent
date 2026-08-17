@@ -1,16 +1,15 @@
 //Dutch Translation
 //nl.json
 {
-"CHANGERepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE10":  "INCERIR TEXTO DAS CARTAS AQUI",
-"EventMailCHANGE01": "INCERIR TEXTO DA CARTA AQUI"
+  "KentRepeteable": "Hallo @^^Ik dacht dat dit misschien nuttig voor je zou zijn.^Het is altijd goed om een snelle snack bij de hand te hebben.^^-Kent",
+  "MailKent01": "Hallo @^^Ik dacht dat dit misschien nuttig voor je zou zijn.^Het is nooit goed om zonder licht te zitten als je ver van huis bent.^^-Kent",
+  "MailKent02": "Hallo @^^Ik dacht dat je dit wel kon gebruiken.^Het is altijd goed om iets snels te eten bij je te hebben.^^-Kent",
+  "MailKent03": "Hallo @^^Ik vond er een paar en heb ze voor je bewaard.^Ze zijn handig om mee te nemen als je een tijdje van huis bent.^^-Kent",
+  "MailKent04": "Hallo @^^Ik dacht dat je hier wel iets aan zou hebben.^Een warme maaltijd maakt een verschil na een zware dag.^^-Kent",
+  "MailKent05": "Hallo @^^Hier zul je vast iets aan hebben.^Soms moet je gewoon weer op krachten komen en doorgaan.^^-Kent",
+  "MailKent06": "Hallo @^^Ik heb wat voor je bewaard.^Het is makkelijk te bewaren en mee te nemen wanneer je het nodig hebt.^^-Kent",
+  "MailKent07": "Hallo @^^Ik heb dit voor je gemaakt.^Met dit soort eten kom je een zware dag wel door.^^-Kent",
+  "MailKent08": "Hallo @^^Ik wil dat je dit bij de hand houdt.^Je weet nooit wanneer er iets mis kan gaan.^^-Kent",
+  "MailKent09": "Hallo @^^Ik dacht dat je er zo eentje moest hebben.^Als je een tijdje van huis bent, kun je maar beter voorbereid zijn.^^-Kent",
+  "MailKent10": "Hallo @^^Ik wilde je dit geven.^Bedankt dat je me hier welkom hebt laten voelen.^^-Kent"
 }
