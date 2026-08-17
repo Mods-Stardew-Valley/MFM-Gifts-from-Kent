@@ -1,16 +1,15 @@
 //Chinese (Simplified) Translation
 //zh.json
 {
-"CHANGERepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE10":  "INCERIR TEXTO DAS CARTAS AQUI",
-"EventMailCHANGE01": "INCERIR TEXTO DA CARTA AQUI"
+"KentRepeteable": "你好，@^^我想这个应该对你有用。^口袋里准备点零食总没坏处。^^-肯特",
+"MailKent01": "你好，@^^我想这个应该对你有用。出门在外，手里没个照明的东西可不太好。^^-肯特",
+"MailKent02": "你好，@^^我觉得你可能用得着这个。身边有些能快速填饱肚子的东西总是好的。^^-肯特",
+"MailKent03": "你好，@^^我找到了几个这个，就帮你留着了。要长时间在外面的话，带上它们挺合适的。^^-肯特",
+"MailKent04": "你好，@^^我想你应该会喜欢这个。辛苦了一天之后，吃上一顿热乎饭感觉可完全不一样。^^-肯特",
+"MailKent05": "你好，@^^你可能会觉得这个挺有用。有时候人就是得恢复恢复体力，然后继续前行。^^-肯特",
+"MailKent06": "你好，@^^我为你留了一点这个。这东西很好存放，需要的时候也方便随身带着。^^-肯特",
+"MailKent07": "你好，@^^我做这个的时候想到你了。这种食物最能帮你撑过艰难的一天了。^^-肯特",
+"MailKent08": "你好，@^^我想让你把这个带在身边。你永远不知道什么时候就会遇到突发状况。^^-肯特",
+"MailKent09": "你好，@^^我觉得你身上应该备着一个这个。如果要离家一段时间，最好还是做好准备。^^-肯特",
+"MailKent10": "你好，@^^我想把这个留给你。谢谢你让我在这里感到了受欢迎。^^-肯特"
 }
