@@ -1,16 +1,15 @@
 //Italian Translation
 //it.json
 {
-"CHANGERepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE10":  "INCERIR TEXTO DAS CARTAS AQUI",
-"EventMailCHANGE01": "INCERIR TEXTO DA CARTA AQUI"
+  "KentRepeteable": "Ciao @^^Pensavo che questo potesse esserti utile.^È sempre bene avere uno spuntino veloce a portata di mano.^^-Kent",
+  "MailKent01": "Ciao @^^Pensavo che questo potesse esserti utile.^Non è mai una buona idea restare senza luce quando sei lontano da casa.^^-Kent",
+  "MailKent02": "Ciao @^^Pensavo che potessi usarlo.^È sempre bene avere qualcosa di veloce da mangiare.^^-Kent",
+  "MailKent03": "Ciao @^^Ne ho trovati alcuni e li ho messi da parte per te.^Sono comodi da portare con sé quando si sta fuori per un po'.^^-Kent",
+  "MailKent04": "Ciao @^^Pensavo che potesse farti comodo.^Un pasto caldo fa la differenza dopo una giornata difficile.^^-Kent",
+  "MailKent05": "Ciao @^^Questo ti sarà sicuramente utile.^A volte bisogna solo recuperare le forze e andare avanti.^^-Kent",
+  "MailKent06": "Ciao @^^Ne ho messo un po' da parte per te.^È facile da conservare e da portare con sé quando serve.^^-Kent",
+  "MailKent07": "Ciao @^^L'ho preparato per te.^Questo tipo di cibo aiuta ad affrontare una giornata difficile.^^-Kent",
+  "MailKent08": "Ciao @^^Voglio che tu tenga questo a portata di mano.^Non si sa mai quando qualcosa potrebbe andare storto.^^-Kent",
+  "MailKent09": "Ciao @^^Pensavo che dovresti averne uno.^Se devi stare lontano da casa per un po', è meglio essere preparati.^^-Kent",
+  "MailKent10": "Ciao @^^Volevo darti questo.^Grazie per avermi fatto sentire il benvenuto qui.^^-Kent"
 }
