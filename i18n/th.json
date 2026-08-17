@@ -1,16 +1,15 @@
-// Thai Translation
-// th.json
+//Thai Translation
+//th.json
 {
-"CHANGERepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE10":  "INCERIR TEXTO DAS CARTAS AQUI",
-"EventMailCHANGE01": "INCERIR TEXTO DA CARTA AQUI"
+  "KentRepeteable": "สวัสดี @^^ฉันคิดว่านี่อาจมีประโยชน์สำหรับเธอ^มีขนมกินเล่นง่าย ๆ ติดตัวไว้ก็ดีเสมอ^^-Kent",
+  "MailKent01": "สวัสดี @^^ฉันคิดว่านี่อาจมีประโยชน์สำหรับเธอ^การไม่มีแสงสว่างตอนอยู่ไกลบ้านไม่ใช่เรื่องดีเลย^^-Kent",
+  "MailKent02": "สวัสดี @^^ฉันคิดว่าเธอน่าจะใช้สิ่งนี้ได้^มีอะไรที่กินได้ง่าย ๆ ติดตัวไว้ก็ดีเสมอ^^-Kent",
+  "MailKent03": "สวัสดี @^^ฉันเจอพวกนี้มาเลยเก็บไว้ให้เธอ^เหมาะที่จะพกติดตัวเมื่อออกจากบ้านเป็นเวลานาน^^-Kent",
+  "MailKent04": "สวัสดี @^^ฉันคิดว่านี่น่าจะเป็นประโยชน์กับเธอ^หลังจากวันที่เหนื่อยล้า อาหารอุ่น ๆ สักมื้อช่วยได้มาก^^-Kent",
+  "MailKent05": "สวัสดี @^^ฉันคิดว่านี่น่าจะมีประโยชน์^บางครั้งก็ต้องฟื้นแรงแล้วเดินหน้าต่อไป^^-Kent",
+  "MailKent06": "สวัสดี @^^ฉันเก็บส่วนหนึ่งไว้ให้เธอ^เก็บรักษาง่ายและพกติดตัวไปได้เมื่อจำเป็น^^-Kent",
+  "MailKent07": "สวัสดี @^^ฉันทำสิ่งนี้ไว้ให้เธอ^อาหารแบบนี้ช่วยให้ผ่านวันที่ยากลำบากไปได้^^-Kent",
+  "MailKent08": "สวัสดี @^^ฉันอยากให้เธอเก็บสิ่งนี้ไว้ใกล้ตัว^ไม่มีทางรู้ได้หรอกว่าเมื่อไหร่จะเกิดเรื่องไม่คาดคิด^^-Kent",
+  "MailKent09": "สวัสดี @^^ฉันคิดว่าเธอควรมีสิ่งนี้ไว้สักอย่าง^ถ้าต้องอยู่ห่างบ้านสักพัก เตรียมตัวไว้ก่อนย่อมดีกว่า^^-Kent",
+  "MailKent10": "สวัสดี @^^ฉันอยากมอบสิ่งนี้ให้เธอ^ขอบคุณที่ทำให้ฉันรู้สึกว่าได้รับการต้อนรับที่นี่^^-Kent"
 }
