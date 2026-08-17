@@ -1,16 +1,15 @@
 //Portuguese Translation
 //pt.json
 {
-"CHANGERepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE10":  "INCERIR TEXTO DAS CARTAS AQUI",
-"EventMailCHANGE01": "INCERIR TEXTO DA CARTA AQUI"
+  "KentRepeteable": "Olá @^^Achei que isto podia ser útil.^É sempre bom ter um lanche rápido à mão.^^-Kent",
+  "MailKent01": "Olá @^^Achei que isto podia ser útil.^Nunca é bom ficar sem luz quando se está longe de casa.^^-Kent",
+  "MailKent02": "Olá @^^Achei que isto podia dar-te jeito.^É sempre bom ter algo rápido para comer.^^-Kent",
+  "MailKent03": "Olá @^^Encontrei alguns e guardei-os para ti.^São bons para levar quando se está fora durante algum tempo.^^-Kent",
+  "MailKent04": "Olá @^^Achei que isto podia dar-te jeito.^Uma refeição quente faz toda a diferença depois de um dia difícil.^^-Kent",
+  "MailKent05": "Olá @^^Isto vai dar-te jeito.^Às vezes é preciso recuperar as forças e continuar.^^-Kent",
+  "MailKent06": "Olá @^^Guardei um pouco disto para ti.^É fácil de guardar e levar contigo quando precisares.^^-Kent",
+  "MailKent07": "Olá @^^Preparei isto para ti.^Este tipo de comida ajuda a aguentar um dia difícil.^^-Kent",
+  "MailKent08": "Olá @^^Quero que tenhas isto à mão.^Nunca se sabe quando alguma coisa pode correr mal.^^-Kent",
+  "MailKent09": "Olá @^^Achei que devias ter um destes.^Se vais ficar algum tempo longe de casa, é melhor estar preparado.^^-Kent",
+  "MailKent10": "Olá @^^Queria dar-te isto.^Obrigado por me fazeres sentir bem-vindo aqui.^^-Kent"
 }
