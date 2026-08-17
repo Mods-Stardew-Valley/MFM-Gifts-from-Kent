@@ -1,16 +1,15 @@
 //Japanese Translation
 //ja.json
 {
-"CHANGERepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE10":  "INCERIR TEXTO DAS CARTAS AQUI",
-"EventMailCHANGE01": "INCERIR TEXTO DA CARTA AQUI"
+  "KentRepeteable": "こんにちは @^^これが役に立つと思ったんだ。^すぐに食べられるものを持っておくと何かと便利だ。^^-Kent",
+  "MailKent01": "こんにちは @^^これが役に立つと思ったんだ。^家から遠く離れた場所で明かりがないのは困るからな。^^-Kent",
+  "MailKent02": "こんにちは @^^これなら使えると思う。^すぐに食べられるものを持っておくといい。^^-Kent",
+  "MailKent03": "こんにちは @^^いくつか見つけたから、君のために取っておいた。^長時間出かけるときに持っていくといい。^^-Kent",
+  "MailKent04": "こんにちは @^^これなら役に立つと思う。^大変な一日の後には、温かい食事があると違うものだ。^^-Kent",
+  "MailKent05": "こんにちは @^^きっと役に立つだろう。^時には力を取り戻して、そのまま進まなきゃならない。^^-Kent",
+  "MailKent06": "こんにちは @^^君のために少し取っておいた。^必要なときに簡単に保存して持ち運べる。^^-Kent",
+  "MailKent07": "こんにちは @^^君のために作った。^こういう食事があれば、大変な一日も乗り切れる。^^-Kent",
+  "MailKent08": "こんにちは @^^これを手元に置いておいてほしい。^何か問題が起きるかは分からないからな。^^-Kent",
+  "MailKent09": "こんにちは @^^これを一つ持っておくといい。^しばらく家を離れるなら、準備しておくに越したことはない。^^-Kent",
+  "MailKent10": "こんにちは @^^これを君に渡したかった。^ここで歓迎されていると感じさせてくれて、ありがとう。^^-Kent"
 }
