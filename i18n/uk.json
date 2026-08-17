@@ -1,16 +1,15 @@
 //Ukrainian Translation
 //uk.json
 {
-"CHANGERepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE10":  "INCERIR TEXTO DAS CARTAS AQUI",
-"EventMailCHANGE01": "INCERIR TEXTO DA CARTA AQUI"
+  "KentRepeteable": "Привіт @^^Я подумав, що це може тобі стати в пригоді.^Завжди добре мати під рукою швидку закуску.^^-Kent",
+  "MailKent01": "Привіт @^^Я подумав, що це може тобі стати в пригоді.^Ніколи не добре залишитися без світла, коли ти далеко від дому.^^-Kent",
+  "MailKent02": "Привіт @^^Я подумав, що тобі це може знадобитися.^Завжди добре мати при собі щось швидке перекусити.^^-Kent",
+  "MailKent03": "Привіт @^^Я знайшов кілька штук і залишив їх для тебе.^Їх зручно брати із собою, коли надовго залишаєш дім.^^-Kent",
+  "MailKent04": "Привіт @^^Я подумав, що це може тобі стати в пригоді.^Після важкого дня гаряча їжа дуже допомагає.^^-Kent",
+  "MailKent05": "Привіт @^^Думаю, це тобі знадобиться.^Іноді треба просто відновити сили й рухатися далі.^^-Kent",
+  "MailKent06": "Привіт @^^Я залишив трохи для тебе.^Це легко зберігати й брати із собою, коли знадобиться.^^-Kent",
+  "MailKent07": "Привіт @^^Я приготував це для тебе.^Така їжа допоможе пережити важкий день.^^-Kent",
+  "MailKent08": "Привіт @^^Хочу, щоб це було в тебе під рукою.^Ніколи не знаєш, коли щось може піти не так.^^-Kent",
+  "MailKent09": "Привіт @^^Я подумав, що тобі варто мати таке.^Якщо ти надовго залишаєш дім, краще бути підготовленим.^^-Kent",
+  "MailKent10": "Привіт @^^Я хотів віддати це тобі.^Дякую, що допоміг мені відчути себе тут бажаним.^^-Kent"
 }
