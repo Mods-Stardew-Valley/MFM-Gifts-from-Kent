@@ -1,16 +1,15 @@
 //Polish Translation
 //pl.json
 {
-"CHANGERepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE10":  "INCERIR TEXTO DAS CARTAS AQUI",
-"EventMailCHANGE01": "INCERIR TEXTO DA CARTA AQUI"
+  "KentRepeteable": "Cześć @^^Pomyślałem, że to może ci się przydać.^Zawsze dobrze mieć pod ręką szybką przekąskę.^^-Kent",
+  "MailKent01": "Cześć @^^Pomyślałem, że to może ci się przydać.^Nigdy nie jest dobrze zostać bez światła, gdy jest się daleko od domu.^^-Kent",
+  "MailKent02": "Cześć @^^Pomyślałem, że możesz tego potrzebować.^Zawsze dobrze mieć przy sobie coś szybkiego do jedzenia.^^-Kent",
+  "MailKent03": "Cześć @^^Znalazłem kilka i odłożyłem je dla ciebie.^Dobrze je mieć przy sobie, gdy jest się poza domem przez dłuższy czas.^^-Kent",
+  "MailKent04": "Cześć @^^Pomyślałem, że może ci się to przydać.^Ciepły posiłek robi różnicę po ciężkim dniu.^^-Kent",
+  "MailKent05": "Cześć @^^Na pewno ci się to przyda.^Czasami trzeba odzyskać siły i ruszyć dalej.^^-Kent",
+  "MailKent06": "Cześć @^^Odłożyłem trochę dla ciebie.^Łatwo to przechować i zabrać ze sobą, gdy będzie potrzebne.^^-Kent",
+  "MailKent07": "Cześć @^^Przygotowałem to dla ciebie.^Taki posiłek pomaga przetrwać ciężki dzień.^^-Kent",
+  "MailKent08": "Cześć @^^Chcę, żebyś miał to pod ręką.^Nigdy nie wiadomo, kiedy coś może pójść nie tak.^^-Kent",
+  "MailKent09": "Cześć @^^Pomyślałem, że powinieneś coś takiego mieć.^Jeśli zamierzasz być przez jakiś czas poza domem, lepiej być przygotowanym.^^-Kent",
+  "MailKent10": "Cześć @^^Chciałem ci to dać.^Dziękuję, że sprawiłeś, że czuję się tutaj mile widziany.^^-Kent"
 }
